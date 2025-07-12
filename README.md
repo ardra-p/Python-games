@@ -9,7 +9,7 @@ Welcome to my collection of beginner-friendly Python console games. These projec
 [View Code](https://github.com/ardra-p/Python-Tic-Tac-Toe-game)
 
 ### Dice Roller
-[View Code](./dice-roller/README.md)
+[View Code](https://github.com/ardra-p/Python-dice-game)
 
 ### War Card Game  
-[View Code](./war-card-game/README.md)
+[View Code](https://github.com/ardra-p/WarCardGame-using-Python)
