@@ -6,15 +6,18 @@ Welcome to my collection of beginner-friendly Python console games. These projec
 
 ## 📌 Projects
 
-### ❌⭕ Tic-Tac-Toe  
-➡️ [View Code](./tic-tac-toe/README.md) *(or replace with .py file link)*
+### ❌⭕ Tic-Tac-Toe 
+
+➡️ [View Code](./Python-Tic-Tac-Toe-game/README.md)
 
 ---
 
-### 🎲 Dice Roller  
+### 🎲 Dice Roller
+
 ➡️ [View Code](./dice-roller/README.md)
 
 ---
 
 ### 🃏 War Card Game  
+
 ➡️ [View Code](./war-card-game/README.md)
