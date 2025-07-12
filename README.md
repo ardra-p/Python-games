@@ -4,11 +4,11 @@ Welcome to my collection of beginner-friendly Python console games. These projec
 
 ---
 
-## 📌 Projects
+## Projects
 
 ### ❌⭕ Tic-Tac-Toe 
 
-➡️ [View Code](./Python-Tic-Tac-Toe-game/README.md)
+➡️ [View Code](https://github.com/ardra-p/Python-Tic-Tac-Toe-game)
 
 ---
 
